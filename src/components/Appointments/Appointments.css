@@ -1,0 +1,8 @@
+.f-con {
+  color: aliceblue;
+  display: flex;
+  justify-content: space-evenly;
+}
+.styleee {
+  color: bisque;
+}
